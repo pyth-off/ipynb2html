@@ -15,7 +15,7 @@ pip install nbconvert
 
 ## Usage
 
-    ```shell
+    ```sh
    ipynb2html <ORIGIN.ipynb> <DESTINATION.html>
     ```
 
