@@ -9,15 +9,16 @@ Make sure you have the following installed:
 - `nbconvert` library
 
 You can install the `nbconvert` library using pip:
-```bash
+
+```python
 pip install nbconvert
 ```
 
 ## Usage
 
-    ```sh
-   ipynb2html <ORIGIN.ipynb> <DESTINATION.html>
-    ```
+```python
+./ipynb2html <ORIGIN.ipynb> <DESTINATION.html>
+```
 
 ## License
 
